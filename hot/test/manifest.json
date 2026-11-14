@@ -1,0 +1,11 @@
+{
+ "ch": "test",
+ "ver": "0.1.4",
+ "code": 5,
+ "size": 5099096,
+ "sha256": "3d3b678ed824187b33bf9d39825ae671497c43b4077b683caa878bc39ac39fcc",
+ "minLoader": 1,
+ "sig": "RWkZrTs6s8PZbDzUmxSVnxB2wSlWz2+F0VrNL5fTiam0SXAkEjIHwINUkWsd9iEExZcHn7mrLXyFEKvBoZ0otQ==",
+ "note": "0.1.4：城内场所和人物、任务、货单和盈亏、港口和船、渡船、关隘、情报分级、战利品分配、新头像、溃逃重整",
+ "at": "2026-11-14 18:25 UTC"
+}
