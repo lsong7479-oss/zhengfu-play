@@ -1,11 +1,11 @@
 {
  "ch": "test",
- "ver": "0.1.5",
- "code": 6,
- "size": 5795119,
- "sha256": "dd328e7c243f3c5f640e2717890de377fef3677d54c944a4a08da5c1818ef4c0",
+ "ver": "0.1.6",
+ "code": 7,
+ "size": 5823593,
+ "sha256": "a95fbc1693f0554480ad3f5065899f49c236bdf315067002a4883729c0de6bd9",
  "minLoader": 1,
- "sig": "DaCvWVE8PrEXTqPik69Dr5stNBnOFHUx66WrOTBHJr+7EMCleDqCqTC7Qa1DA1Ilo9MIPe3/4Vc7M7mBnGfd2A==",
- "note": "0.1.5：攻城分段和计谋、集团军和元帅、情报、市场和商队交易、装备品质和工艺、城里互动、合兵和援军、模拟战斗、顶栏底栏收起展开",
- "at": "2026-11-15 11:08 UTC"
+ "sig": "X51KK3ZVi9GvWMTceXgo/fhQ5uYbp3YrywsrlTlAnZILJQUKck7tM+3y/8Q6+jxCMW0PKDZuGE4SQctwmO5hfw==",
+ "note": "0.1.6：竖屏界面修整（钱包、价格图标、天下卡片、队伍顶栏、底栏）、分兵侦察选地点和带队伙伴、城的位置和画面对齐",
+ "at": "2026-11-15 15:50 UTC"
 }
