@@ -1,11 +1,11 @@
 {
  "ch": "test",
- "ver": "0.1.4",
- "code": 5,
- "size": 5099096,
- "sha256": "3d3b678ed824187b33bf9d39825ae671497c43b4077b683caa878bc39ac39fcc",
+ "ver": "0.1.5",
+ "code": 6,
+ "size": 5795119,
+ "sha256": "dd328e7c243f3c5f640e2717890de377fef3677d54c944a4a08da5c1818ef4c0",
  "minLoader": 1,
- "sig": "RWkZrTs6s8PZbDzUmxSVnxB2wSlWz2+F0VrNL5fTiam0SXAkEjIHwINUkWsd9iEExZcHn7mrLXyFEKvBoZ0otQ==",
- "note": "0.1.4：城内场所和人物、任务、货单和盈亏、港口和船、渡船、关隘、情报分级、战利品分配、新头像、溃逃重整",
- "at": "2026-11-14 18:25 UTC"
+ "sig": "DaCvWVE8PrEXTqPik69Dr5stNBnOFHUx66WrOTBHJr+7EMCleDqCqTC7Qa1DA1Ilo9MIPe3/4Vc7M7mBnGfd2A==",
+ "note": "0.1.5：攻城分段和计谋、集团军和元帅、情报、市场和商队交易、装备品质和工艺、城里互动、合兵和援军、模拟战斗、顶栏底栏收起展开",
+ "at": "2026-11-15 11:08 UTC"
 }
