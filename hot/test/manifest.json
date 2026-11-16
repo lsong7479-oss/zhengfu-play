@@ -1,11 +1,11 @@
 {
  "ch": "test",
- "ver": "0.1.6",
- "code": 7,
- "size": 5823593,
- "sha256": "a95fbc1693f0554480ad3f5065899f49c236bdf315067002a4883729c0de6bd9",
+ "ver": "0.1.7",
+ "code": 8,
+ "size": 5974738,
+ "sha256": "d66b2938eb7667173d30e9c036b94fd4b11a18f6733b51e81fbcbb60373d21a9",
  "minLoader": 1,
- "sig": "X51KK3ZVi9GvWMTceXgo/fhQ5uYbp3YrywsrlTlAnZILJQUKck7tM+3y/8Q6+jxCMW0PKDZuGE4SQctwmO5hfw==",
- "note": "0.1.6：竖屏界面修整（钱包、价格图标、天下卡片、队伍顶栏、底栏）、分兵侦察选地点和带队伙伴、城的位置和画面对齐",
- "at": "2026-11-15 15:50 UTC"
+ "sig": "YxLyBXEhT9mE0uTuskYIsxWdeAFBU3IiAwGVAfQZuxFhx7u4qav854cm4TZ48sA4UuLbfwcknE5s4ZrxYzFlFg==",
+ "note": "0.1.7：经济按《经济学新论》重做（商家进货、四类人口、报价梯子、买卖花时间、摆摊）；疾行军、断尾求生；真实地理的天气和气候；时钟到分钟；「属性技能」预览页。",
+ "at": "2026-11-16 13:53 UTC"
 }
