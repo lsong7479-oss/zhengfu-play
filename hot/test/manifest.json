@@ -1,11 +1,11 @@
 {
  "ch": "test",
- "ver": "0.1.7",
- "code": 8,
- "size": 5974738,
- "sha256": "d66b2938eb7667173d30e9c036b94fd4b11a18f6733b51e81fbcbb60373d21a9",
+ "ver": "0.1.8",
+ "code": 9,
+ "size": 5988614,
+ "sha256": "3e262ba6f468e31fdb12e473e2844178fc57cc5ebfa6b61fe2cc17b3e520e403",
  "minLoader": 1,
- "sig": "YxLyBXEhT9mE0uTuskYIsxWdeAFBU3IiAwGVAfQZuxFhx7u4qav854cm4TZ48sA4UuLbfwcknE5s4ZrxYzFlFg==",
- "note": "0.1.7：经济按《经济学新论》重做（商家进货、四类人口、报价梯子、买卖花时间、摆摊）；疾行军、断尾求生；真实地理的天气和气候；时钟到分钟；「属性技能」预览页。",
- "at": "2026-11-16 13:53 UTC"
+ "sig": "Ivh2X+nghara0x9LNyEN7+gAPJ1olozcFONSJYy96JpYyeDcOWOHKhaE8HkcU+TvSUJdjvDI1v7xwx6yeIiIVA==",
+ "note": "0.1.8：商家数量按现实来（大城上万家，同价的并成一档）；卖货分四类买家——散客、囤货的、小批发、大批发，价钱和花的时间各不相同；摆摊可以选卖给谁、可以派伙伴去；找到的买家每天换一批；超载时也能卖货了。",
+ "at": "2026-11-16 19:17 UTC"
 }
